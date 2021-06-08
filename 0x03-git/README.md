@@ -1,2 +1,2 @@
-*This file is mandatory in all ALX School projects*
+*this is onother readme*
 # alx-zero_day
