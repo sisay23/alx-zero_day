@@ -1,2 +1,2 @@
-*this is onother readme*
+*this is another readme*
 # alx-zero_day
